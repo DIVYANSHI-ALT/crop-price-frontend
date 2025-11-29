@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/crop-price-frontend/static/css/main.1c1f88ed.css",
-    "main.js": "/crop-price-frontend/static/js/main.18e873f5.js",
+    "main.js": "/crop-price-frontend/static/js/main.23b028ee.js",
     "index.html": "/crop-price-frontend/index.html",
     "main.1c1f88ed.css.map": "/crop-price-frontend/static/css/main.1c1f88ed.css.map",
-    "main.18e873f5.js.map": "/crop-price-frontend/static/js/main.18e873f5.js.map"
+    "main.23b028ee.js.map": "/crop-price-frontend/static/js/main.23b028ee.js.map"
   },
   "entrypoints": [
     "static/css/main.1c1f88ed.css",
-    "static/js/main.18e873f5.js"
+    "static/js/main.23b028ee.js"
   ]
 }
