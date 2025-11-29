@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crop-price-frontend/static/css/main.1c1f88ed.css",
+    "main.js": "/crop-price-frontend/static/js/main.18e873f5.js",
+    "index.html": "/crop-price-frontend/index.html",
+    "main.1c1f88ed.css.map": "/crop-price-frontend/static/css/main.1c1f88ed.css.map",
+    "main.18e873f5.js.map": "/crop-price-frontend/static/js/main.18e873f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c1f88ed.css",
+    "static/js/main.18e873f5.js"
+  ]
+}
